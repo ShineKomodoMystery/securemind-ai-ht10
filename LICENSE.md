@@ -1,4 +1,4 @@
-# 
+# Smart SecureMind downloader. Download and install with local-deployment and cli-support — fast, secure, and easy to use.
 
 
 
